@@ -10,5 +10,6 @@ const capitalize = (text) => {
 console.log(capitalize('day'));
 console.log(capitalize('how are you'));
 console.log(capitalize(''));
+console.log(capitalize('Come'));
 
 export default capitalize;
